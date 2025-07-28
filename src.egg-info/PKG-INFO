@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: src
+Version: 0.0.1
+Summary: A small package for Book Recommender System
+Home-page: https://github.com/Rifky Faris/Books-Recommender-System-Using-Machine-Learning
+Author: Rifky Faris
+Author-email: rifky14faris@gmail.com
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+Book Recomendation System
